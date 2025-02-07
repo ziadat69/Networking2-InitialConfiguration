@@ -1,0 +1,24 @@
+Ein großer Vorteil der Virtualisierung ist die insgesamt reduzierte Kosten:
+
+    Weniger Geräte sind erforderlich – Virtualisierung ermöglicht die Konsolidierung von Servern, was weniger physische Geräte erfordert und die Wartungskosten senkt.
+    Weniger Energie wird verbraucht – Die Konsolidierung von Servern senkt die monatlichen Strom- und Kühlkosten.
+    Weniger Platz wird benötigt – Die Konsolidierung von Servern reduziert den benötigten Platz auf dem Boden.
+
+Weitere Vorteile der Virtualisierung:
+
+    Einfache Prototypenerstellung – Selbstständige Labs, die auf isolierten Netzwerken betrieben werden, können schnell erstellt werden, um Netzwerkeinsätze zu testen und zu prototypisieren.
+    Schnellere Serverbereitstellung – Die Erstellung eines virtuellen Servers ist viel schneller als die Bereitstellung eines physischen Servers.
+    Erhöhte Serververfügbarkeit – Die meisten Server-Virtualisierungsplattformen bieten mittlerweile fortschrittliche, redundante Fehlererkennungsfunktionen.
+    Verbesserte Notfallwiederherstellung – Die meisten Enterprise-Server-Virtualisierungsplattformen verfügen über Software, die hilft, Failover-Tests durchzuführen und zu automatisieren, bevor eine Katastrophe eintritt.
+    Unterstützung von Legacy-Systemen – Virtualisierung kann die Lebensdauer von Betriebssystemen und Anwendungen verlängern, was Organisationen mehr Zeit für die Migration zu neueren Lösungen gibt.
+
+Der Hypervisor ist ein Programm, eine Firmware oder Hardware, die eine Abstraktionsschicht über der physischen Hardware hinzufügt. Diese Abstraktionsschicht wird verwendet, um virtuelle Maschinen zu erstellen,
+die Zugriff auf alle Hardwarekomponenten der physischen Maschine haben, 
+wie zum Beispiel CPUs, Speicher, Festplattencontroller und Netzwerkkarten (NICs). Jede dieser virtuellen Maschinen läuft mit einem vollständigen und separaten Betriebssystem.
+
+Type-1-Hypervisoren werden auch als „Bare-Metal“-Ansatz bezeichnet, weil der Hypervisor direkt auf der Hardware installiert wird. Type-1-Hypervisoren werden in der Regel auf Unternehmensservern und Geräten im Rechenzentrumsnetzwerk eingesetzt.
+
+Ein Type-2-Hypervisor ist Software, die VM-Instanzen erstellt und ausführt. Der Computer, auf dem ein Hypervisor eine oder mehrere VMs unterstützt, wird als Host-Maschine bezeichnet. 
+Type-2-Hypervisoren werden auch als gehostete Hypervisoren bezeichnet. Der Hypervisor wird auf dem bestehenden Betriebssystem wie macOS, Windows oder Linux installiert.
+Dann werden eine oder mehrere zusätzliche Betriebssystem-Instanzen auf dem Hypervisor installiert. 
+Ein großer Vorteil von Type-2-Hypervisoren ist, dass keine Management-Software erforderlich ist.
