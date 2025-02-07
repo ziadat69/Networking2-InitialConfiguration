@@ -1,0 +1,28 @@
+Im Allgemeinen spricht man in Bezug auf die Cloud über Rechenzentren, Cloud-Computing und Virtualisierung. Rechenzentren sind in der Regel große Einrichtungen, 
+die enorme Mengen an Energie, Kühlung und Bandbreite bereitstellen. 
+Nur sehr große Unternehmen können sich eigene Rechenzentren leisten. Kleinere Organisationen mieten in der Regel die Dienste eines Cloud-Anbieters.
+
+Cloud-Dienste umfassen:
+
+    SaaS – Software as a Service
+    PaaS – Platform as a Service
+    IaaS – Infrastructure as a Service
+
+Es gibt vier Haupt-Cloud-Modelle, wie in der Abbildung gezeigt:
+
+Öffentliche Clouds (Public Clouds) – Cloud-basierte Anwendungen und Dienste, 
+                    die in einer öffentlichen Cloud angeboten werden, stehen der allgemeinen Öffentlichkeit zur Verfügung.
+
+Private Clouds – Cloud-basierte Anwendungen und Dienste, die in einer privaten Cloud angeboten werden, sind für eine bestimmte Organisation oder Entität bestimmt, 
+                 wie beispielsweise für die Regierung.
+
+Hybride Clouds (Hybrid Clouds) – Eine hybride Cloud besteht aus zwei oder mehr Clouds, bei denen jeder Teil ein separates Objekt bleibt, 
+                                 aber beide durch eine gemeinsame Architektur verbunden sind.
+
+Community Clouds – Eine Community-Cloud wird für den exklusiven Gebrauch durch eine bestimmte Gemeinschaft erstellt. 
+                   Der Unterschied zwischen öffentlichen Clouds und Community Clouds liegt in den funktionalen Bedürfnissen, die für die Gemeinschaft angepasst wurden.
+
+
+Virtualisierung ist die Grundlage des Cloud-Computing. Ohne sie wäre Cloud-Computing in der Form, 
+wie es am weitesten verbreitet ist, nicht möglich. Virtualisierung bedeutet, eine virtuelle und nicht physische Version von etwas zu erstellen,
+wie zum Beispiel einen „Linux-Computer“ auf einem Windows-PC zu betreiben.
